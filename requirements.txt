@@ -1,4 +1,5 @@
 pip
+conan
 wheel
 pep517
 qiskit[all]
